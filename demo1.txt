@@ -1,3 +1,4 @@
 Hello!!
 
 Welcome to git class
+We are learning our first demo git class!!
